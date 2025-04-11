@@ -38,4 +38,4 @@ If you need help or encounter any issues, feel free to reach out to us! We offer
 ## Credits
 
 - **AJ** For Making this script be possible.
-- **SparkyPlayz** For helping make this script.
+- **SparkyPlayz** For helping make this GitHub.
