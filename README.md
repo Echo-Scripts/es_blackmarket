@@ -11,13 +11,13 @@
 ## Showcases
 
 See the **ES Black Market NPC** in action!  
-[**Watch the Showcase**](*SOON*)  
+[**Watch the Showcase Coming SOON**](Link)  
 
 ## Buy the Script
 
 Interested in using the **ES Black Market NPC** script for your server? Purchase it through our **Tebex** store and start using it today!
 
-[**Buy ES Black Market NPC**](*SOON*)  
+[**Buy ES Black Market NPC Coming SOON**](Link)  
 
 ## Version Checking System
 
